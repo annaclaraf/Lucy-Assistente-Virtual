@@ -112,7 +112,7 @@ class Lucy:
                     movies.append(movie['name'])
 
             if len(movies) == 0: 
-                print('Nenhum filme encontrado')
+                print('Nenhum filme encontrado com essa categoria')
                 return None
 
             print (f'Os filmes de {command} que eu encontrei são {movies}')
@@ -145,6 +145,10 @@ class Lucy:
             for movie in self.movies:
                 if movie['name'].lower() == command.lower():
                     synopsis = movie['synopsis']
+            if synopsis == '': 
+                print('Não foi possivel encontrar a sinopse desse filme')
+                return None
+            
             print (f'A sinopse do filme {command} é {synopsis}')
         except:
             print('ocorreu um erro')
