@@ -1,0 +1,32 @@
+{
+    "name": ["lucy", "luci"],
+    "actions": [
+        {
+            "name": "indicar",
+            "objects": [
+                "filme"
+            ]
+        },
+        {
+            "name": "listar",
+            "objects": [
+                "cartaz"
+            ]
+        },
+        {
+            "name": "mostrar",
+            "objects": [
+                "sinopse"
+            ]
+        },
+        {
+            "name":"parar",
+            "objects":[
+                "aplicação",
+                "projeto",
+                "programa",
+                "execução"
+            ]
+        }
+    ]
+}

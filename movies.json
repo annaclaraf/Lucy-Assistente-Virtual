@@ -1,0 +1,106 @@
+{
+    "movies": [
+        {
+            "name": "Clube da Luta",
+            "synopsis": "Um homem deprimido que sofre de insônia conhece um estranho vendedor de sabonetes chamado Tyler Durden e logo se vê morando em sua casa miserável depois que seu apartamento perfeito é destruído. Os dois homens entediados formam um clube clandestino com regras rígidas e lutam contra outros homens que estão fartos de suas vidas mundanas. Sua parceria perfeita se desfaz quando Marla, uma colega de grupo de apoio, atrai a atenção de Tyler.",
+            "gender": "ação",
+            "inTheaters": false
+        },
+        {
+            "name": "A Origem",
+            "synopsis": "Dom Cobb é um ladrão com a rara habilidade de entrar nos sonhos das pessoas e roubar seus segredos do subconsciente. Sua habilidade o tornou uma mercadoria quente no mundo da espionagem corporativa, mas também lhe custou tudo o que ele ama. Cobb tem uma chance de redenção quando lhe é oferecida uma tarefa aparentemente impossível: plantar uma ideia na mente de alguém. Se ele conseguir, será o crime perfeito, mas um inimigo perigoso antecipa cada movimento de Cobb.",
+            "gender": "ação",
+            "inTheaters": false
+        },
+        {
+            "name": "Interestelar",
+            "synopsis": "As reservas naturais da Terra estão chegando ao fim e um grupo de astronautas recebe a missão de verificar possíveis planetas para receberem a população mundial, possibilitando a continuação da espécie. Cooper é chamado para liderar o grupo e aceita a missão sabendo que pode nunca mais ver os filhos.",
+            "gender": "drama",
+            "inTheaters": false
+        },
+        {
+            "name": "Parasita",
+            "synopsis": "Toda a família de Ki-taek está desempregada, vivendo em um porão sujo e apertado. Porém uma obra do acaso faz com que ele comece a dar aulas de inglês a uma garota de família rica. Fascinados com a vida luxuosa destas pessoas, pai, mãe e filhos bolam um plano para se infiltrarem também na família burguesa, um a um. No entanto, os segredos e mentiras necessários à ascensão social custam caro a todos.",
+            "gender": "drama",
+            "inTheaters": false
+        },
+        {
+            "name": "Trem Bala",
+            "synopsis": "Em Trem-Bala, Ladybug é um assassino azarado, determinado a fazer seu trabalho pacificamente depois de muitas missões saírem dos trilhos. Quase desistindo de sua carreira, ele é recrutado por Maria Beetle para coletar uma maleta em um trem-bala indo de Tóquio para Morioka.",
+            "gender": "comédia",
+            "inTheaters": true
+        },
+        {
+            "name": "Dupla Jornada",
+            "synopsis": "Um caçador de vampiros tem uma semana para conseguir dinheiro para pagar as despesas da filha. E ele vai lutar com unhas e dentes para garantir o sustento da família.",
+            "gender": "comédia",
+            "inTheaters": true
+        },
+        {
+            "name": "Abracadabra 2 ",
+            "synopsis": "Faz 29 anos que a vela da chama negra foi acesa e ressuscitou as irmãs do século 17, e elas querem vingança. Agora, três adolescentes devem impedir que as bruxas vorazes causem mais estrago em Salem antes do amanhecer de Halloween.",
+            "gender": "comédia",
+            "inTheaters": true
+        },
+        {
+            "name": "Luca",
+            "synopsis": "Ambientado na bela Riviera Italiana, este longa-metragem da Disney e da Pixar acompanha as aventuras do garoto Luca durante um verão inesquecível repleto de macarronadas, gelatos e passeios incríveis de motoneta ao lado de seu novo amigo Alberto. Mas um grande segredo ameaça colocar fim à diversão: abaixo da superfície da água, eles são monstros marinhos!",
+            "gender": "animação",
+            "inTheaters": false
+        },
+        {
+            "name": "Divertida Mente",
+            "synopsis": "Baseadas na Sala de Comando, o centro de controle dentro da mente de Riley de 11 anos, cinco emoções trabalham sem parar, lideradas pela otimista Alegria. Ela se esforça muito para garantir que Riley esteja sempre feliz, e trabalha ao lado do Medo, Raiva, Nojinho e Tristeza.",
+            "gender": "animação",
+            "inTheaters": false
+        },
+        {
+            "name": "Procurando Nemo",
+            "synopsis": "Depois que seu filho é capturado na Grande Barreira de Corais e levado para Sydney, um peixe-palhaço tímido parte em uma jornada para trazê-lo para casa.",
+            "gender": "animação",
+            "inTheaters": false
+        },
+        {
+            "name": "O Rei Leão",
+            "synopsis": "Mufasa, o Rei Leão, e a rainha Sarabi apresentam ao reino o herdeiro do trono, Simba. O recém-nascido recebe a bênção do sábio babuíno Rafiki, mas ao crescer é envolvido nas artimanhas de seu tio Scar, o invejoso e maquiavélico irmão de Mufasa, que planeja livrar-se do sobrinho e herdar o trono.",
+            "gender": "animação",
+            "inTheaters": false
+        },
+        {
+            "name": "Adão Negro",
+            "synopsis": "Quase 5.000 anos depois de ter sido concedido com os poderes onipotentes dos deuses egípcios e de ter sido preso, Adão Negro se ergue de seu túmulo, pronto para trazer sua justiça ao mundo moderno.",
+            "gender": "ação",
+            "inTheaters": true
+        },
+        {
+            "name": "Órfã",
+            "synopsis": "Kate e John Coleman ficam arrasados devido a um trágico aborto. Apesar de já ter dois filhos, Daniel e Maxime, o casal decide adotar uma criança. Durante uma visita a um orfanato, os dois se encantam pela pequena Esther de nove anos e optam rapidamente por sua adoção. O que eles não sabiam é que estranhos acontecimentos fazem parte do histórico da menina que passa a se tornar, dia após dia, mais misteriosa. Intrigada, Kate desconfia que Esther não é quem aparenta ser, mas devido ao seu passado de alcoolismo tem dificuldades de provar sua teoria.",
+            "gender": "terror",
+            "inTheaters": false
+        },
+        {
+            "name": "Sorria",
+            "synopsis": "Após testemunhar um acidente traumático e bizarro envolvendo um paciente, a Dra. Rose Cotter começa a vivenciar eventos assustadores que ela não consegue explicar.",
+            "gender": "terror",
+            "inTheaters": true
+        },
+        {
+            "name": "Invocação do Mal",
+            "synopsis": "Os investigadores paranormais Ed e Lorraine Warren trabalham para ajudar uma família aterrorizada por uma presença sombria em sua fazenda. Forçados a confrontar uma entidade poderosa, os Warrens se vêem presos no caso mais aterrorizante de suas vidas. Baseado numa história real.",
+            "gender": "terror",
+            "inTheaters": false
+        },
+        {
+            "name": "O Poderoso Chefão",
+            "synopsis": "Don Corleone é o chefe de uma mafiosa família italiana de Nova York. Ele costuma apadrinhar várias pessoas, realizando importantes favores para elas, em troca de favores futuros. Com a chegada das drogas, as famílias começam uma disputa pelo promissor mercado. Quando Corleone se recusa a facilitar a entrada dos narcóticos na cidade, não oferecendo ajuda política e policial, sua família começa a sofrer atentados para que mudem de posição. É nessa complicada época que Michael, um herói de guerra nunca envolvido nos negócios da família, vê a necessidade de proteger o seu pai e tudo o que ele construiu ao longo dos anos.",
+            "gender": "crime",
+            "inTheaters": false
+        },
+        {
+            "name": "Um Sonho de Liberdade ",
+            "synopsis": "Em 1946, Andy Dufresne, um banqueiro jovem e bem sucedido, tem a sua vida radicalmente modificada ao ser condenado por um crime que nunca cometeu, o homicídio de sua esposa e do amante dela. Ele é mandado para uma prisão que é o pesadelo de qualquer detento, a Penitenciária Estadual de Shawshank, no Maine. Lá ele irá cumprir a pena perpétua. Andy logo será apresentado a Warden Norton, o corrupto e cruel agente penitenciário, que usa a Bíblia como arma de controle e ao Capitão Byron Hadley que trata os internos como animais. Andy faz amizade com Ellis Boyd Redding, um prisioneiro que cumpre pena há 20 anos e controla o mercado negro da instituição.",
+            "gender": "crime",
+            "inTheaters": false
+        }
+    ]
+}
