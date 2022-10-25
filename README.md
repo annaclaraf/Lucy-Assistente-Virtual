@@ -6,6 +6,8 @@
 - Lucy listar filmes em cartaz.
 - Lucy mostrar sinopse.
 
+## Como executar
+
 ```bash
 
 # Clone o repositório
